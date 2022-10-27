@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
   //1.Linear layout
   //2.Constraint layout
   //3.Relative layout
-
+  //test git
   private lateinit var clickButton: Button
 
   override fun onCreate(savedInstanceState: Bundle?) {
